@@ -1,5 +1,4 @@
 # International Mobile Number Validator
-***
 
 
 A simpler and smaller rewrite of Google's libphonenumber library in javascript.
@@ -19,7 +18,6 @@ npm install --save international-mobile-number-validator
 The following is a simple phone information extraction example similar to what can be viewed on the official demo page.
 
 ##### Sample Code -
-***
 ```sh
 const imnv = require('international-mobile-number-validator');
 let validateRequest = {"phoneNumber":"9028126381", "countryCode":"IN"};
@@ -28,7 +26,6 @@ console.log(result);
 ```
 
 ##### Sample Result - 
-***
 ```sh
 {
     parseResult: {
@@ -46,7 +43,6 @@ console.log(result);
 ```
 
 ##### Country Code Details - 
-***
 | Country Name | Carrier Code | Country Code |
 | ------ | ------ | ------ |
  | Afghanistan | 93 | AF | 
