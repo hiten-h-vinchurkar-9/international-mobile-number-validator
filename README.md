@@ -1,6 +1,5 @@
 # International Mobile Number Validator
 
-
 A simpler and smaller rewrite of Google's libphonenumber library in javascript.
 
 ### Features
@@ -8,6 +7,9 @@ A simpler and smaller rewrite of Google's libphonenumber library in javascript.
 - Smaller, compressed and lighweight in size. 
 - Based on Google's powerful libphonenumber library.
 - Zero dependency on other packages.
+
+### Demo
+https://re1.uk/_DviVO85Y
 
 ### Installation
 Install the package via npm:
