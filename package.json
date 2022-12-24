@@ -1,0 +1,25 @@
+{
+  "name": "international-mobile-number-validator",
+  "version": "0.0.1",
+  "description": "A simpler and smaller rewrite of Google's libphonenumber library in javascript.",
+  "main": "international-mobile-number-validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiten-h-vinchurkar-9/international-mobile-number-validator.git"
+  },
+  "keywords": [
+    "e164",
+    "phonenumber",
+    "libphonenumber",
+    "number"
+  ],
+  "author": "hiten-h-vinchurkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiten-h-vinchurkar-9/international-mobile-number-validator/issues"
+  },
+  "homepage": "https://github.com/hiten-h-vinchurkar-9/international-mobile-number-validator#readme"
+}
