@@ -1,7 +1,9 @@
 # International Mobile Number Validator
 
 A simpler and smaller rewrite of Google's libphonenumber library in javascript.
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator?ref=badge_shield)
+
 ### Features
 - Simple and easy to use in code.
 - Smaller, compressed and lighweight in size. 
@@ -296,5 +298,7 @@ console.log(result);
 
 ### Licenses
 MIT
+
 The bundled [libphonenumber](https://github.com/googlei18n/libphonenumber/blob/master/LICENSE) library is licensed under Apache 2.0.
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator?ref=badge_large)

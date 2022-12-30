@@ -1,6 +1,6 @@
 {
   "name": "international-mobile-number-validator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simpler and smaller rewrite of Google's libphonenumber library in javascript.",
   "main": "international-mobile-number-validator.js",
   "scripts": {
