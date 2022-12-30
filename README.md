@@ -301,4 +301,4 @@ MIT
 
 The bundled [libphonenumber](https://github.com/googlei18n/libphonenumber/blob/master/LICENSE) library is licensed under Apache 2.0.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator?ref=badge_small)
