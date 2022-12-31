@@ -3,6 +3,7 @@
 A simpler and smaller rewrite of Google's libphonenumber library in javascript.
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator?ref=badge_shield)
+![GitHub](https://img.shields.io/github/license/hiten-h-vinchurkar-9/international-mobile-number-validator)
 
 ### Features
 - Simple and easy to use in code.
