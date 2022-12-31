@@ -2,8 +2,12 @@
 
 A simpler and smaller rewrite of Google's libphonenumber library in javascript.
 
+![npm](https://img.shields.io/npm/v/international-mobile-number-validator)
+![npm bundle size](https://img.shields.io/bundlephobia/min/international-mobile-number-validator)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/international-mobile-number-validator)
+![npm](https://img.shields.io/npm/dw/international-mobile-number-validator)
+![NPM](https://img.shields.io/npm/l/international-mobile-number-validator)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator?ref=badge_shield)
-![GitHub](https://img.shields.io/github/license/hiten-h-vinchurkar-9/international-mobile-number-validator)
 
 ### Features
 - Simple and easy to use in code.
@@ -298,8 +302,10 @@ console.log(result);
 - Google's [libphonenumber](https://github.com/googlei18n/libphonenumber) library.
 
 ### Licenses
-MIT
+[MIT](https://github.com/hiten-h-vinchurkar-9/international-mobile-number-validator/blob/main/LICENSE)
 
-The bundled [libphonenumber](https://github.com/googlei18n/libphonenumber/blob/master/LICENSE) library is licensed under Apache 2.0.
+Google's `libphonenumber` is [licensed](https://github.com/google/libphonenumber/blob/master/LICENSE) under Apache 2.0.
+[Apache 2](https://en.wikipedia.org/wiki/Apache_License#Licensing_conditions) does not require a derivative work of the software, or modifications to the original, to be distributed using the same license. Hence, this library is licensed under [MIT](LICENSE), which is [compatible](https://www.quora.com/Is-the-MIT-license-compatible-with-the-Apache-License-Version-2-APLv2) with Apache 2.
+The Apache license is terminated if the user sues anyone over patent infringement related to the software covered by the license. This condition is added in order to prevent patent litigations.
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhiten-h-vinchurkar-9%2Finternational-mobile-number-validator?ref=badge_small)
